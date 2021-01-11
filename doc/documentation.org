@@ -10,4 +10,6 @@ Are Flower genes re-used in the trap to attract prey insects
 
 Dionaea RNAseq data for flower, rim, and maybe trap
 
+Arabidopsis Flower and Leaf to identify flower specific genes
+
 
