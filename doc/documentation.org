@@ -3,3 +3,11 @@
 ** Idea
 
 Are Flower genes re-used in the trap to attract prey insects
+
+** Material an Methods
+
+*** Data
+
+Dionaea RNAseq data for flower, rim, and maybe trap
+
+
