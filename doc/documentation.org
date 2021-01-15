@@ -12,7 +12,9 @@ Are Flower genes re-used in the trap to attract prey insects
 
 RNAseq data for flower, rim, and maybe trap in house
 
-**** _Arabidopsis thaliana_ 
+**** *Arabidopsis thaliana* 
+
+For downloading from SRA see https://www.biostars.org/p/111040/
 
 Flower and Leaf to identify flower specific genes
 [https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563)
