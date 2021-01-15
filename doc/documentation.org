@@ -8,8 +8,23 @@ Are Flower genes re-used in the trap to attract prey insects
 
 *** Data
 
-Dionaea RNAseq data for flower, rim, and maybe trap
+**** Dionaea muscipula
 
-Arabidopsis Flower and Leaf to identify flower specific genes
+RNAseq data for flower, rim, and maybe trap in house
 
+**** Arabidopsis thaliana 
 
+Flower and Leaf to identify flower specific genes
+[https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563)
+3 replicates Leaf + 3replicates fully expanded inflorescences
+
+[https://www.mdpi.com/2075-4655/1/2/8/htm](https://www.mdpi.com/2075-4655/1/2/8/htm)
+
+**** Species Set
+
+We need a evenly covered set of flowering plants
+- Dionaea muscipula
+- Aldrovanda vesiculosa
+- Drosera spatulata
+- Cephalotus?
+- Amborella 
