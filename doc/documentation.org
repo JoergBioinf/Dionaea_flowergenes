@@ -22,7 +22,7 @@ Flower and Leaf to identify flower specific genes
 
 **** Species Set
 
-We need a evenly covered set of flowering plants (Angiosperms ;-) ). For phylogeny see https://refubium.fu-berlin.de/handle/fub188/18972 . Download genomic information from [Ensembl Plants] (https://plants.ensembl.org/index.html) , where possible.
+We need a evenly covered set of flowering plants (Angiosperms ;-) ). For phylogeny see https://refubium.fu-berlin.de/handle/fub188/18972 . Download genomic information from [Ensembl Plants](https://plants.ensembl.org/index.html) , where possible.
 - Dionaea muscipula
 - Aldrovanda vesiculosa
 - Drosera spatulata
