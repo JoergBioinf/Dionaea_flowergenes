@@ -12,6 +12,11 @@ Are Flower genes re-used in the trap to attract prey insects
 
 RNAseq data for flower, rim, and maybe trap in house
 
+- Genome /storage/compevolbiol/projects/carnivores/RESULTS Dm_annotation.gff Dm_genome_assembly.fa
+- RNAseq petiole /storage/compevolbiol/projects/carnivores/data/Dionaea/sequencing/RNAseq/exp001/1_trimmed/DM_exp001_Pe_L*.fastq
+- RNAseq Rim /storage/compevolbiol/projects/carnivores/data/Dionaea/sequencing/RNAseq/exp001/1_trimmed/DM_exp001_Ri_L*.fastq
+- RNAseq Flower /storage/compevolbiol/projects/carnivores/data/Dionaea/sequencing/RNAseq/exp001/1_trimmed/DM_exp001_Fl_L*.fastq
+
 **** *Arabidopsis thaliana* 
 
 For downloading from SRA see
@@ -19,11 +24,14 @@ For downloading from SRA see
 - https://www.ncbi.nlm.nih.gov/sra/docs/sradownload/
 - https://www.biostars.org/p/111040/
 
+Programs in: /storage/compevolbiol/software/sratoolkit/sratoolkit.2.8.2-1-ubuntu64/bin
+
 Flower and Leaf to identify flower specific genes
-[https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563)
+SRA Data to download
+https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563
 3 replicates Leaf + 3replicates fully expanded inflorescences
 
-[https://www.mdpi.com/2075-4655/1/2/8/htm](https://www.mdpi.com/2075-4655/1/2/8/htm)
+Paper about the data: https://www.mdpi.com/2075-4655/1/2/8/htm
 
 **** Species Set
 
@@ -44,6 +52,8 @@ We need a evenly covered set of flowering plants (Angiosperms ;-) ). For phyloge
 **** Identification of DEGs
 
 STAR mapping to genome, DESeq2
+
+STAR pogram in: /storage/compevolbiol/software/star/bin/Linux_x86_64/STAR
 
 **** Orthology
 
