@@ -8,11 +8,11 @@ Are Flower genes re-used in the trap to attract prey insects
 
 *** Data
 
-**** Dionaea muscipula
+**** _Dionaea muscipula_
 
 RNAseq data for flower, rim, and maybe trap in house
 
-**** Arabidopsis thaliana 
+**** _Arabidopsis thaliana_ 
 
 Flower and Leaf to identify flower specific genes
 [https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563](https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563)
@@ -23,8 +23,23 @@ Flower and Leaf to identify flower specific genes
 **** Species Set
 
 We need a evenly covered set of flowering plants (Angiosperms ;-) ). For phylogeny see https://refubium.fu-berlin.de/handle/fub188/18972 . Download genomic information from [Ensembl Plants](https://plants.ensembl.org/index.html) , where possible.
-- Dionaea muscipula
-- Aldrovanda vesiculosa
-- Drosera spatulata
-- Cephalotus?
-- Amborella 
+- _Dionaea muscipula_
+- _Aldrovanda vesiculosa_
+- _Drosera spatulata_
+- _Cephalotus?_
+- _Amborella_
+
+*** Methods
+
+1. In _D. muscipula_ identify genes which are significantly higher expressed (i) in flowers compared to petiole (aka leaf) and (ii) in rim compared to petiole
+2. In _A. thaliana_ identify genes which are significantly higher expressed in the flower than in the leaf
+3. Identify orthologous genes between _D. muscipula_ and _A. thaliana_ using a species set covering the Angiosperms. Do we want more carnivorous plants in the tree?
+4. Combine the three data sets to identify orthologous genes 'enriched' in the flower of _D. muscipula_ and of _A. thaliana_ . Which of these genes are also enriched in the rim of the trap of _D. muscipula_ ?
+
+**** Identification of DEGs
+
+STAR mapping to genome, DESeq2
+
+**** Orthology
+
+Orthofinder
