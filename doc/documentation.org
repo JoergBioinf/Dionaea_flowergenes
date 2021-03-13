@@ -1,4 +1,4 @@
-* Dioneae Flower Genes
+* Dionaea Flower Genes
 
 ** Introduction
 
@@ -25,8 +25,15 @@ Dionaea RNAseq data for flower, rim, and maybe trap. Ref
 https://pubmed.ncbi.nlm.nih.gov/27197216/
 
 
+Link to Arabidopsis data 
+
+SRA Data to download
+https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563
+3 replicates Leaf + 3replicates fully expanded inflorescences
+
+
 Arabidopsis Flower and Leaf to identify flower specific genes. Ref for
-these data
+these data   https://www.mdpi.com/2075-4655/1/2/8/htm
 
 *** Methods
 
