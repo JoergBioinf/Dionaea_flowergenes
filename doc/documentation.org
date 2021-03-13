@@ -1,15 +1,56 @@
 * Dioneae Flower Genes
 
-** Idea
+** Introduction
 
-Are Flower genes re-used in the trap to attract prey insects
+- By catching and digesting theri animal prey, carniovorous plants can
+  survive in nutrient poor habitats
+- The Venus Fly trap attracts insect with volatile compounds
+  (https://pubmed.ncbi.nlm.nih.gov/24420576/)
+- The rim of the trap contains specific organs, the nectaries, which
+  are prime candidates for producing these compounds.
+- But where do the involved genes come from?
+- we already know that in the eolution of carnivorous plants existing
+  genes were 'repurposed' to the new trait, carnivory. Example root
+  genes are expressed in the digesting trap.
+- In non-carnivorous plants insect-attracting volatile are produced in
+  the flowers.
+- Here, we set out to test, whether flower genes have been re-purposed
+  for the attraction of insects to the trap of D. muscipula.
 
-** Material an Methods
+** Material and Methods
 
 *** Data
 
-Dionaea RNAseq data for flower, rim, and maybe trap
+Dionaea RNAseq data for flower, rim, and maybe trap. Ref
+https://pubmed.ncbi.nlm.nih.gov/27197216/
 
-Arabidopsis Flower and Leaf to identify flower specific genes
 
+Arabidopsis Flower and Leaf to identify flower specific genes. Ref for
+these data
 
+*** Methods
+
+**** Differential Gene expression
+
+Describe Workflow here (short!!!)
+
+**** Orthology prediction
+
+Just give a table with species and version of genomes here
+
+** Results and Discussion
+
+Would it make sense to give a little figure here which shows the
+workflow with the cutoffs? Could even contain the numbers of the
+relevant genes... 
+
+And then you just have to give the number of repurposed genes here
+(and I am still freaking curious about this number :D )
+
+And at the end of the discussion you give a little outlook. So you
+could say that the next steps would be the charaterisation of these
+these genes to see what they actually are. And based on the
+Orthogroups we could even check when they evolved (possibly with the
+emergence of flowering plants??? ) And final conclusion: Here we have
+shown another example of re-purposing of genes in the evolution of
+plant carnivory.
