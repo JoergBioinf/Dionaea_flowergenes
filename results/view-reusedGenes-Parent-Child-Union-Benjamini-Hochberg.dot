@@ -1,0 +1,10 @@
+/* Generated with Ontologizer 2.1 build 20160628-1269 */
+digraph G {nodesep=0.4;
+GO_0003824[shape="box",label="GO:0003824\ncatalytic activity\n4060/9056, 40/101",gradientangle=270,style="filled,setlinewidth(3)",fillcolor="white:0.166667,0.200000,1.000000"];
+GO_0000000[shape="box",label="GO:0000000\nGene Ontology\n8969/9056, 54/101"];
+GO_0003674[shape="box",label="GO:0003674\nmolecular_function\n7819/9056, 51/101"];
+GO_0000000 -> GO_0003674[color=black,dir="back",tooltip="molecular_function  Gene Ontology"];
+
+GO_0003674 -> GO_0003824[color=black,dir="back",tooltip="catalytic activity is a molecular_function"];
+
+}

@@ -35,6 +35,9 @@ https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=291563
 Arabidopsis Flower and Leaf to identify flower specific genes. Ref for
 these data   https://www.mdpi.com/2075-4655/1/2/8/htm
 
+Downloaded gene ontology from 
+http://purl.obolibrary.org/obo/go.obo at <2021-03-26 Fr>
+
 *** Methods
 
 **** Differential Gene expression
@@ -44,6 +47,20 @@ Describe Workflow here (short!!!)
 **** Orthology prediction
 
 Just give a table with species and version of genomes here
+
+**** Functional annotation
+
+Gene Ontology enrichmend with Ontologizer http://ontologizer.de/
+downloaded at <2021-03-26 Fr> 
+generated associations file with
+
+bin$ ./convertInterPro2associations.pl > ../data/Dm_simple-assoc-file.ids
+
+generated popset with 
+cut -f1 Dm_simple-assoc-file.ids > Dm.popset
+manually deleted header
+
+results$ sh ../bin/run_ontologizer.sh
 
 ** Results and Discussion
 
